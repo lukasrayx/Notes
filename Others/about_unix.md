@@ -138,8 +138,6 @@ xkb，setxkbmap -option ctrl:swapcaps
 
 Feh， variety更改terminal界面
 
-chromium
-
 kdenlivej 剪视频
 
 gimp修图软件
@@ -174,11 +172,7 @@ tlp   <!--管理电量使用-->
 
 Netease-cloud-music   <!--网易云音乐-->
 
-gimp       <!--修图软件-->
-
 lazygit <!--termial git管理软件-->
-
-vlc
 
 
 
@@ -330,13 +324,19 @@ Step1 ：在disk utility中erase u盘
 
 Step2 ：diskutil list,  diskutil unmountdisk /dev/disk2
 
-Step3 ：sudo dd if=/Users/lucas/Downloads/manjaro-gnome-18.1.5-191229-linux54.iso of=/dev/disk2 bs=1m
+Step3 ：sudo dd if=/Users/lucas/Downloads/manjaro-i3-18.1.5-191229-linux54.iso of=/dev/disk2 bs=1m
 
+manjaro-kde-18.1.5-191229-linux54.iso
 
+manjaro-i3-18.1.5-191229-linux54.iso
 
 ### 配置manjaro
 
 更改镜像源：sudo pacman-mirrors -i -c China
+
+SigLevel = Never
+
+Server = http://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
 
 Sudo pacman -Syyu 更新完后reboot
 
