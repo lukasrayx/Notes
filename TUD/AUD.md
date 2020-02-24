@@ -131,9 +131,9 @@ void g(int x, int y, int *z){
 
 int main(){
     int e, a;
-    scanf("%i", &e);
+    scanf("%i", &e);  //eingabe: e = 1;
     f(e, &a);
-    printf("a = %d\n", a);
+    printf("a = %d\n", a);  //ausgabe: a = 1;
     return 0;
 }
 ```
