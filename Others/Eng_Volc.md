@@ -56,7 +56,63 @@ Lazada was created by Rocket Internet, a Berlin-based investor and incubator tha
 
 
 
-### 25. Feb.
+### 27. Feb.
+
+Migration reduces unemployment, but it cannot liberate struggling spots from **accrued** obligation.
+
+Within Africa, gains would mostly **accrue to** better-off countries in sectors such as sugar, meat and dairy.
+
+The advantages mostly **accrue to** business travelers. 
+
+The study revealed that the effect takes time to **accrue**, so aspirin must be taken over a long period.
+
+He's totally **unsuited** to the job.
+
+Because of the ruling, Michigan's law against **preferential** treatment cannot stay in place.
+
+He is **swamped with** work stuff.
+
+After **protracted** negotiations, Ogden got the deal he wanted.
+
+The **disclosure** of cheating discredited him thoroughly.
+
+They were, by and large, a very wealthy, **privileged** elite.
+
+**A plethora of** new operators will be allowed to enter the market.
+
+Music makes everything have more emotional **resonance**.
+
+India firms sense a fortune to be made by selling **rustic** folk their first fridges.
+
+The museum will have a permanent exhibition of 60 **vintage** cars.
+
+The **ramification** of a decision is all its consequences and effects, especially ones thich are not obvious at first.
+
+I don't think you're aware of the **ramifications** here.
+
+Yet such services are  often **meagre**.
+
+The bank's staff were already angered by a meagre 3.1% pay rise.
+
+It was a question of making sure certain needs were addressed, **notably** in the pensions area.
+
+The **notables** include five Senators and two Spreme Court judges.
+
+No matter was too small to **warrant** his attention.
+
+The allegations are serious enough to **warrant** an investigation.
+
+Farmers are inured to this **rugged** road.
+
+I am manly and **rugged**.
+
+The **stature** of a person is the importance and reputation that they have.
+
+Who can deny his **stature** as the world's greatest cellist.
+
+Plainly, a more objective method of description must be adopted.
+
+He was plainly annoyed.
 
 
 

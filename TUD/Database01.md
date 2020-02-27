@@ -23,7 +23,11 @@
     + logical schema
 + **View schema**, aka subschema
 
-**Data models**
+![](https://tva1.sinaimg.cn/large/0082zybpgy1gcb83p536ij315i0pkjwe.jpg)
+
+
+
+Data models**
 
 + **relational Model** 
 + **Object Relational Model**
