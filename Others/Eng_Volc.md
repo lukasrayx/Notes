@@ -116,5 +116,113 @@ He was plainly annoyed.
 
 
 
+### 8. March
+
+I believe people should live in houses that allow them to retreat from the harsh realities of life.
+
+What really got everybody aflutter was his contention that the Big Bang is an inevitable consequence of the laws of physics.
+
+Warrant: show to be reasonable or provide adequate ground for.
+
+The emergency does not warrant all of us buying guns
+
+No matter was too small to warrant his attention.
+
+The allegations are serious enough to warrant an investigation.
+
+It might be a society that could fracture along class lines.
+
+Although European corporate governance is often compared unfavorably with America's, Mr Gardell says it has many advantages.
+
+It's believed the conditions in which the election are being held too favourable to the government. 
+
+He is so impatient with those who decry the scheme.
+
+The car rattled along at great speed.
+
+The Democratic Party has called for an independent inquiry into the incident.
+
+While his interest in these sports began to wane, a passion for rugby developed.
+
+He was nominally Deputy Prime Minister, certainly, but his influence was clearly **on the wane.**
+
+They are obfuscating the issue.
+
+There should be some tangible evidence that the economy is starting to recover.
+
+If something is tangible, it is clear enough or definite enough to be seen, felt or noticed.
+
+Hes already infirm body was racked by high fever.
+
+The country is now racked by three violent separatist movements.
+
+Only a year ago, he was **on the rack with** a heroin addiction that began when he was 13.
+
+The pressure now was **relentless**.     // never stops
+
+He pursued him **relentlessly**.  // is determined to do sth. and refuses to give up.
+
+Brian's hesitation was almost **imperceptible**.
+
+The disease develops gradually and **imperceptibly**.  //can't be noticed
+
+
+
+### 10. March
+
+Interest rates began to gyrate up towards 20 per cent in 1980 and then down and up again.
+
+The young people gyrated on the dance floor.
+
+In regard to animals, diphyodont evolved into reptilia, which evolved into mammals.
+
+The simple plan evolved into a complicated scheme.
+
+He was arrested in 1979 on spurious corruption charges.
+
+The justification of this chart is entirely spurious.
+
+I think he made a tactical **blunder** by announcing it <u>so far ahead of time.</u>在时机未成熟时
+
+No doubt I had **blundered** again.
+
+This **intriguing** book is both thoughtful and informative.
+
+The novelty of the situation **intrigued** him.
+
+Exports of Australian wine are growing at a **phenomenal** rate.
+
+The growth in China has been phenomenal.
+
+He's the only **leverage** we have.
+
+He has some **leverage** over the politician.
+
+I cannot pretend that I **gleaned** a great deal from my observations at first.
+
+It taught me a **helluva** lot about myself.
+
+She adores old, **offbeat** antiques.
+
+
+
+### 19. March
+
+### 20. March
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

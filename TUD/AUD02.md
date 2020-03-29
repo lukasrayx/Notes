@@ -178,3 +178,104 @@ int main()
 }
 ```
 
+# Suchen
+
+- der Datenbestand eine feste Größe hat und 有序查找
+- der Datnbestand eine veränderbare Größe hat 无序查找
+
+Naive algorithms: 不考虑复杂度 - 但是能把问题解决的算法，比如穷举之类的。
+
+
+
+### KMP algorithm
+
+pattern: ababc
+
+Prefix:
+
+- a ： 最长公共前后缀 0 
+- ab ： 最长公共前后缀0
+- aba ： 最长公共前后缀1
+- abab :  最长前缀aba  最长后缀bab  二位前缀ab 后缀ab，最长公共前后缀2
+- ababc ： 最长公共前后缀 0 
+
+最长公共前后缀列表Prefix table： 0 0 1 2 0   -->   -1 0 0 1 2
+
+T:   a  b   a    a   c   a   b   a   b    c    a    c
+
+P:   a   b   a   b   c
+
+​       -1 0   0    <u>1</u>   2
+
+​                  a   <u>b</u>    a  b   c
+
+​                        a   <u>b</u>    a  b   c
+
+​                              <u>a</u>   b    a  b   c 
+
+​                                    <u>a   b   a  b   c</u>
+
+​                                               a   b    a  b   c
+
+
+
+Pattern: ababcabaa 
+
+Prefix table: 001201231
+
+代码实现：
+
+```c
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

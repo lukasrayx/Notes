@@ -520,6 +520,40 @@ int main ()
 
   - ![](https://tva1.sinaimg.cn/large/0082zybpgy1gc6pxzld17j30go05at9p.jpg)
 
+```c
+#include<stdio.h>
+
+void g(int x, int y, int *z);
+
+void f(int x, int *y){
+  int u;
+
+  if(x>0){
+    f(x-1, &u);
+    g(x-1, u, y);
+  }
+  else *y = 1;
+}
+
+void g(int x, int y, int *z){
+  int u;
+
+  if(x > 0){
+    f(x-1, &u);
+    *z = u+y;
+  }
+  else *z = 1;
+}
+
+int main(){
+  int e, a;
+  scanf("%i", &e);
+  f(e, &a);
+  printf("a = %d\n", a);  // a = 1
+  return 0;
+}
+```
+
 
 
 # Einfach-verkettete Listen:

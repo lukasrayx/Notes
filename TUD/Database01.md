@@ -11,7 +11,7 @@
 **Data Abstraction**
 
 + **Physical level** : how to save in disk
-+ ***Logical level** : logical schema 
++ **Logical level** : logical schema 
 + **View level** : views of user
 
 **Instances and Schemas**
@@ -27,7 +27,7 @@
 
 
 
-Data models**
+**Data models**
 
 + **relational Model** 
 + **Object Relational Model**
@@ -167,7 +167,7 @@ n ：关系的目或度（ **Degree** ）
 
 
 
-**Rferential integrity constraint**
+**Referential integrity constraint**
 
 **Foreign key constraint** : 
 

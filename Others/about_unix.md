@@ -60,6 +60,8 @@ mv -加上tab   显示-后面可以出现的指令
 
 Killall
 
+xset -dpms s off  不熄屏
+
 
 
 
@@ -188,11 +190,11 @@ pkg-config
 
 
 
+**you-get:** 
 
+`--info`/`-i` 以查看所有可用画质与格式、s:
 
-
-
-
+` you-get --itag=18 'https:`  下载
 
 
 
@@ -215,14 +217,6 @@ manjaro左下角键盘strg换成了alt, alt换成了ctl
 右下角键盘alt换成了super， 目录换成了ctl
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
-
-## Terminal代理问题
-
-Terminal 输入setProxy / unsetProxy 启用/关闭代理
-
-
 
 
 
