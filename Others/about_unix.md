@@ -10,11 +10,9 @@
 export https_proxy=http://127.0.0.1:7890;export http_proxy=http://127.0.0.1:7890;export all_proxy=socks5://127.0.0.1:7891;echo \"Set proxy successfully\"
 ```
 
-
-
-
-
 # Terminal使用
+
+su root 进入root权限
 
 pwd
 
@@ -64,6 +62,12 @@ xset -dpms s off  不熄屏
 
 
 
+xrandr 查看电脑分辨率
+
+
+
+screenfetch 查看系统信息
+
 
 
 # Manjaro使用
@@ -75,6 +79,8 @@ xset -dpms s off  不熄屏
 5. 清除已下载的安装包:`sudo pacman -Scc`
 6. 显示文件系统的磁盘使用情况:`sudo df -h`或`sudo df -hT`
 7. 显示文件系统的磁盘使用情况:`sudo fdisk -u -l`
+8. super + shift + r 重载
+9. Super + d = dmenu
 
 ## pacman命令
 
@@ -158,15 +164,11 @@ ranger文件管理器
 
 polybar 状态栏
 
-deepin terminal
-
-compton 半透明工具
+compton 半透明工具 改名成picom了
 
 Alacrity terminal
 
 Window compositor:  compton
-
-图形界面linux桌面环境：kde，sfc
 
 dwm
 
@@ -334,17 +336,13 @@ Step2 ：diskutil list,  diskutil unmountdisk /dev/disk2
 
 Step3 ：sudo dd if=/Users/lucas/Downloads/manjaro-i3-18.1.5-191229-linux54.iso of=/dev/disk2 bs=1m
 
-manjaro-kde-18.1.5-191229-linux54.iso
-
-manjaro-i3-18.1.5-191229-linux54.iso
-
 ### 配置manjaro
 
 更改镜像源：sudo pacman-mirrors -i -c China
 
 SigLevel = Never
 
-Server = http://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
 
 Sudo pacman -Syyu 更新完后reboot
 
@@ -374,7 +372,15 @@ sudo pacman -S dmenu <!--super + s/d 启动 -->
 
 vim ~/.Xresources 中修改 Xft.dpi: 120 <!--调整字体大小-->
 
-Super + shift + c   <!--刷新i3.config配置-->
+su per shift r 重启i3
+
+Super + shift + c   <!--刷新i3.config配置-->     
+
+
+
+vim ~/.Xresources 修改字体和字体大小
+
+vim ~/.i3/config 修改配置，分辨率等   
 
 
 
@@ -393,6 +399,12 @@ vim .xmodmap <!--更改键位-->
 最上面Clear xxx     最下面add xxx    <!--xxx为删除和增加的键名-->
 
 Xmodmap ~/.xmodmap <!--刷新配置-->
+
+macos（option_l: 64 , option_r: 108 , command_l: 133, _r: 134， esc: 9, 中/英: 66）
+
+add control = Control_L Control_R
+
+add mod1 = Alt_L
 
 
 
@@ -428,6 +440,8 @@ new_window 1pixel 取消terminal四周边框
 
 exec --no-startup-id compton -b 开机运行
 
+gaps inner 15     添加入config文件，增加窗口边框
+
  
 
 exec --no-startup-id compton -b  <!--开机启动-->
@@ -437,6 +451,26 @@ exec --no-startup-id compton -b  <!--开机启动-->
 # ProblemSolving
 
 **make报错error127** ： 安装base-devel后解决
+
+修改键位失败：mod1对应Alt_L 和 Alt_R   然后mod4对应Super_L和Super_R, 先clear掉mod1和mod4， 结尾再add
+
+
+
+
+
+
+
+
+
+-----------------------
+
+Windows 软件
+
+- revo uninstaller
+
+
+
+
 
 
 

@@ -207,5 +207,9 @@ continue;  跳出当前循环进入下一个
 
 
 
+toString会重写父类的toString方法，返回一个你想要的String
+
+toString的好处是在碰到“println”之类的输出方法时会自动调用，不用显式打出来，而getString()必须打出来xx.getString()
+
 
 
