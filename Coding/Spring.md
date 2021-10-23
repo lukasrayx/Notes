@@ -11,7 +11,7 @@
 
 
 
-
+依赖反转：本来耦合王阿姨打扫房间（如果王阿姨请假就没人打扫），现在耦合清洁公司
 
 
 
@@ -113,6 +113,14 @@ public List<Users> selectUserByName(String usesrname){
 ## 使用 th:text
 
 ### 
+
+
+
+
+
+
+
+
 
 
 

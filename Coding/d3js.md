@@ -164,6 +164,72 @@ let myPromise = new Promise((resolve, reject) => {
 
 ```
 
+
+
+# HTML
+
+`<body>` 与` </body>` 之间的文本是可见的页面内容
+`<h1></h1>` 之间的文本为标题
+`<p></p>` 之间的文本为段落 paragraph
+`<hr />`  用来在页面中创建水平线分隔内容
+`<br />` 换行
+`<body style="backgroud-color:yellow"></body>` 设置背景色
+`<h1 style="font-family:verdana; color:red; font-size:20px;"></h1>` 设置字体等属性
+`<h1 style="text-align:center"></h1>` 标题相对于页面居中对齐
+`<pre></pre>` 为预格式文本，中间的文字保留了空格和换行
+`<code><kbd><tt><samp><var>` 这些都是字体<></>
+`<a href="link">text</a>` 创建一个超链接
+		注：href：Hypertext REFerence
+`<blockquote></blockquote>` 长引用
+`<q></q>` 短引用
+```html
+<head>
+  <style type="text/css">
+    h1 {color:red}
+    p {color:blue}
+  </style>
+</head>
+```
+设置`<body>` 中`<head>`和`<p>`中的text颜色
+`<li></li>` 定义列表项 
+`<label>` 就是设置一个选项的名字
+		注："for" 属性可把 label 绑定到另外一个元素。请把 "for" 属性的值设置为相关元素的 id 属性的值。
+				"form" 规定 label 字段所属的一个或多个表单。
+```html
+<form action="demo_form.asp" method="get" id="genderform">
+<label>Male
+<input type="radio" name="sex" id="male" value="male" />
+</label>
+<br />
+<label>Female
+<input type="radio" name="sex" id="female" value="female"  />
+</label>
+<input type="submit" value="提交" />
+</form>
+```
+注：`id` label 所属的一个或多个表单的 id。
+`<input>` 用于搜集用户信息，根据type不同，输入字段有多种形式（文字，按钮等）
+`<div></div>` 可定义文档中的分区或节（division/section）。
+`<span></span>` 被用来组合文档中的行内元素，将文本中一部分独立出来，并设置单独的样式
+`<i>` 斜体，类似的还有：`<em><b><big><small><strong><sub><ins><del><code><tt><var>` 等
+`<div class="xx">` class是引入一个样式，在css中有定义
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # HTML, CSS and SVG
 
 **Cars Report with HTML**
@@ -280,6 +346,10 @@ body {
 
 - cx: centre x of a circle
 - x: we can just position a rectangle just use x and y
+
+
+
+
 
 
 
