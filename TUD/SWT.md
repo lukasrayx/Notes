@@ -2,45 +2,16 @@
 
 # General
 
-### 2.Vorlesung
+### Vorlesung: 14-programmierung mit löchern
 
-Überschreiben, overriding
-
-Vererbung und Polymorphie
-
-
-
-### 3.Vorlesung
-
-Testen - Verifikation, Validation
-
-Vorbedingung, Nachbedingung
-
-assert()
-
-- assert的作用是现计算表达式 expression ，如果其值为假（即为0），那么它先向stderr打印一条出错信息，然后通过调用 abort 来终止程序运行。
-
-Exception Objects 异常对象
-
-throw-Anweisung
-
-try catch throw
-
-Testsuite
-
-assertTrue(d2.equals(d3));
-
-@test @Before
+**Mixin**: mixin一般翻译为“混入”、“混合”，
+早期一般解释为：把一个对象的方法和属性拷贝到另一个对象上；
+也可以简单理解为能够被继承的类，
+最终目的是实现代码的复用。
 
 
 
-### 4.Vorlesung
 
-Schnittstellen
-
-abstrakte Klassen
-
-Mixin Klassen
 
 
 
