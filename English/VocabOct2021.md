@@ -1,4 +1,4 @@
-# TE_2021.10.16
+# W1: 28.Feb-4.Mar 
 
 | Vocabulary                         | Explanation              |
 | ---------------------------------- | ------------------------ |
@@ -26,33 +26,89 @@
 | <u>curtail</u> supplies /kɜː'teɪl/ | 缩减                     |
 | Relentlessly                       | 不间断的，               |
 | light <u>bulb</u>  /bʌlb/          | 灯泡                     |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
-|                                    |                          |
+| notorious  /no'tɔrɪəs/             | 臭名昭著的               |
+| outlaw                             | 宣布..不合法             |
+| lax  /læks/                        | 松懈的，宽松的           |
+| eloquent     /'ɛləkwənt/           | 有口才的，有说服力的     |
+| gibe                               |                          |
+| disclose                           |                          |
+| adulate                            |                          |
+| allegiance                         |                          |
+| scrutiny                           |                          |
+| descent                            |                          |
+| diverge                            |                          |
+| convoy                             |                          |
+| disposable                         |                          |
+| languish                           |                          |
+| volatile                           |                          |
+| slam                               |                          |
+| subdue                             |                          |
+| hurtle                             |                          |
+| obscure                            |                          |
+| boast                              |                          |
+| crackdown                          |                          |
+| surveil                            |                          |
+| prominent                          |                          |
+| clout                              |                          |
+| elaborate                          |                          |
+| genie                              |                          |
 
 
+
+# W2: 5.Mar-6.Mar
+
+| Vocabulary  | Explanation |
+| ----------- | ----------- |
+| contagious  |             |
+| precarious  |             |
+| poignant    |             |
+| tatter      |             |
+| radioactive |             |
+| evade       |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
+|             |             |
 
 
 
