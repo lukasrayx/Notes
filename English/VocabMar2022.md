@@ -215,106 +215,106 @@
 
 # W3: 14.Mar - 20.Mar
 
-| Vocabulary                                         | Explanation                                                  |
-| -------------------------------------------------- | ------------------------------------------------------------ |
-| convertible  /kən'vɜːtɪb(ə)l/                      | 1. 敞篷的，折叠的(eg. 沙发) 2. 可兑换的(货币)                |
-| impersonate  /ɪm'pɜːs(ə)neɪt/                      | v. 冒充，模仿                                                |
-| backdrop                                           | n. 背景，衬托                                                |
-| brochure  /'brəʊʃə/                                | n. 手册，小册子                                              |
-| bereft  /bɪˈreft/                                  | adj. 缺失 +of (=deprived of or lacking)，孤苦伶仃(因亲人离别/死亡) |
-| sunder  / ˈsəndər/                                 | 使分开，使分裂                                               |
-| overlook                                           | 1. fail to notice, ignore, disregard 2. 俯瞰  3. 监管 (=oversee, supervise) |
-| ethic  /'eθɪk/                                     | n. 伦理，道德规范                                            |
-| abstinence  /'æbstɪnəns/                           | n. 禁欲，戒酒                                                |
-| indoctrination  /in,dɔktri'neiʃən/  (indoctrinate) | n. 教导，教化  (v. 灌输(思想)，洗脑)                         |
-| decisive  /dɪ'saɪsɪv/                              | 1. 关键的，决定性的 2. 有决断力的，果断的                    |
-| rack up                                            | 大量获得/遭受 (利润，分数，损失)                             |
-| rebound  /rɪ'baʊnd/                                | v. 反弹，产生反作用 +on sb                                   |
-| correspondingly                                    | entsprechend 相关的，相对应的                                |
-| beware  /bɪ'weə/                                   | v. 提防，当心，注意 +of                                      |
-| flattery  /'ﬂæt(ə)rɪ/                              | n. 谄媚，奉承                                                |
-| chide  /tʃaɪd/                                     | v. 斥责，责骂                                                |
-| scorn                                              | n.v.  鄙视，蔑视                                             |
-| wobbly  /'wɒblɪ/                                   | 摆动的，不稳的                                               |
-| (20) archaic  /ɑː'keɪɪk/                           | 古代的，古老的，陈旧的，古色古香的                           |
-| haggle  /'hæg(ə)l /                                | 还价 +over                                                   |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-| (40)                                               |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-| (60)                                               |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-| (80)                                               |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
-|                                                    |                                                              |
+| Vocabulary                                          | Explanation                                                  |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| convertible  /kən'vɜːtɪb(ə)l/                       | 1. 敞篷的，折叠的(eg. 沙发) 2. 可兑换的(货币)                |
+| impersonate  /ɪm'pɜːs(ə)neɪt/                       | v. 冒充，模仿                                                |
+| backdrop                                            | n. 背景，衬托                                                |
+| brochure  /'brəʊʃə/                                 | n. 手册，小册子                                              |
+| bereft  /bɪˈreft/                                   | adj. 缺失 +of (=deprived of or lacking)，孤苦伶仃(因亲人离别/死亡) |
+| sunder  / ˈsəndər/                                  | 使分开，使分裂                                               |
+| overlook                                            | 1. fail to notice, ignore, disregard 2. 俯瞰  3. 监管 (=oversee, supervise) |
+| ethic  /'eθɪk/                                      | n. 伦理，道德规范                                            |
+| abstinence  /'æbstɪnəns/                            | n. 禁欲，戒酒                                                |
+| indoctrination  /in,dɔktri'neiʃən/  (indoctrinate)  | n. 教导，教化  (v. 灌输(思想)，洗脑)                         |
+| decisive  /dɪ'saɪsɪv/                               | 1. 关键的，决定性的 2. 有决断力的，果断的                    |
+| rack up                                             | 大量获得/遭受 (利润，分数，损失)                             |
+| rebound  /rɪ'baʊnd/                                 | v. 反弹，产生反作用 +on sb                                   |
+| correspondingly                                     | entsprechend 相关的，相对应的                                |
+| beware  /bɪ'weə/                                    | v. 提防，当心，注意 +of                                      |
+| flattery  /'ﬂæt(ə)rɪ/                               | n. 谄媚，奉承                                                |
+| chide  /tʃaɪd/                                      | v. 斥责，责骂                                                |
+| scorn                                               | n.v.  鄙视，蔑视                                             |
+| wobbly  /'wɒblɪ/                                    | 摆动的，不稳的                                               |
+| (20) archaic  /ɑː'keɪɪk/                            | 古代的，古老的，陈旧的，古色古香的                           |
+| haggle  /'hæg(ə)l /                                 | 还价 +over                                                   |
+| polemic  /pə'lemɪk/                                 | n. 辩论，论战，辩证法  adj. 好争论的                         |
+| irony  /'aɪrənɪ/                                    | n. 冷嘲，讽刺                                                |
+| flip  /ﬂɪp/                                         | v. 按(开关)，快速浏览，翻转，抛，掷，发火                    |
+| oust  /aʊst/                                        | v. 剥夺，驱逐，取代                                          |
+| whip up  /wip/                                      | 激起，煽动                                                   |
+| incur  /ɪn'kɜː/                                     | 招致，引发                                                   |
+| plain  /pleɪn/                                      | n. 平原  adj. 清晰的，明白的，坦率的(having no pretensions)，朴素的 |
+| warily  /'weərɪlɪ/                                  | adv. 谨慎地，小心地                                          |
+| fend off                                            | 回避，避开，挡住                                             |
+| be bound to                                         | 必然，必定                                                   |
+| aloof  /ə'luːf/                                     | 冷漠的，离群的，置身事外的                                   |
+| equivocal  /ɪ'kwɪvək(ə)l/                           | 模凌两可的，含糊其辞的，难以解释/理解的                      |
+| inferno  /ɪn'fɜːnəʊ/                                | n. 地狱                                                      |
+| obscurity  /əb'skjʊrəti/                            | n. 默默无闻，无名，难懂/费解/晦涩                            |
+| fade into obscurity                                 | 逐渐消失                                                     |
+| posh  /pɒʃ/                                         | adj. 漂亮的，时髦的，奢侈的                                  |
+| to pull off a feat                                  | to manage to do something difficult 完成壮举                 |
+| establishment  /ɪ'stæblɪʃm(ə)nt/                    | 企业，机构，权贵，权威人士                                   |
+| (40) trial /'traɪəl/                                | n. 审讯，实验，试用，磨难，选拔赛                            |
+| opt for                                             | 选择                                                         |
+| dissident  /'dɪsɪd(ə)nt/                            | 持异议者                                                     |
+| circulate  /'sɜːkjʊleɪt/                            | 传播，散布                                                   |
+| blatant  /'bleɪt(ə)nt/                              | flagrant 公然的                                              |
+| exemplar  /ɪg'zemplə/                               | n. 模型，模范，原型                                          |
+| conformity  /kən'fɔːmɪtɪ/                           | n. 依照，遵从，遵守  in ~ with，墨守陈规，循规蹈矩           |
+| dignity  /'dɪgnɪtɪ/                                 | n. 高贵，端庄，尊严                                          |
+| indelicacy  /ɪn'delɪkəsɪ/                           | n. 粗俗                                                      |
+| hawkish  /'hɔkɪʃ/                                   | 鹰派的                                                       |
+| chalk up  /tʃɔk/                                    | 获得，取得(成功)                                             |
+| prominence                                          | 声望，杰出，声名鹊起，突出                                   |
+| bubble up                                           | (负面的情绪) 变得强烈                                        |
+| belittle  /bɪ'lɪt(ə)l/                              | 贬低                                                         |
+| scrutinise  /'skru:tinaiz/                          | 仔细查看 examine/inspect thoroughly                          |
+| smuggle  /'smʌg(ə)l/                                | 走私                                                         |
+| contract  /'kɒntrækt/                               | v. (肌肉) 收缩，(市场) 紧缩，萎缩，感染(疾病)/患病  v.n. (签)合同 |
+| estate  /ɪ'steɪt/                                   | 财产，房地产                                                 |
+| tranquility  /træŋ'kwiləti/ - tranquil  /'træŋkwəl/ | n. 平静，安定                                                |
+| solely  /'səʊllɪ/                                   | 仅仅                                                         |
+| (60) hereby  /hɪə'baɪ/                              | 特此                                                         |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+| (80)                                                |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
+|                                                     |                                                              |
 
 | Vocabulary | Explanation |
 | ---------- | ----------- |
